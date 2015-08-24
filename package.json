@@ -1,0 +1,23 @@
+{
+  "name": "cli-select",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binRick/cli-select.git"
+  },
+  "author": "Rick Blundell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/cli-select/issues"
+  },
+  "homepage": "https://github.com/binRick/cli-select#readme",
+  "dependencies": {
+    "select-shell": "0.0.5",
+    "underscore": "^1.8.3"
+  }
+}
